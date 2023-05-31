@@ -1,13 +1,6 @@
-body{
+body {
     background-color: black;
-
-}
-.title{
-    font-size: 30px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
-    transform: translate(-50%, -50%);
-    left: 50%;
-    top: 50%;
-    vertical-align: super;
-}
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
