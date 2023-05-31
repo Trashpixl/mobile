@@ -2,5 +2,18 @@ body {
     background-color: black;
     color: white;
     font-family: Arial, sans-serif;
-    text-align: center;
-  }
+    font-size: 5%;
+
+}
+h1{
+  position: fixed;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 20%
+}
+h2{
+  position: fixed;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 30%
+}
