@@ -17,3 +17,43 @@ h2{
   left: 50%;
   top: 30%
 }
+.button1{
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgb(220, 75, 5, 0.85);
+  border-radius: 30px;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 40%;
+
+}
+.button2{
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgb(220, 75, 5, 0.85);
+  border-radius: 30px;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+.button3{
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgb(220, 75, 5, 0.85);
+  border-radius: 30px;
+  position: fixed;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 60%;
+}

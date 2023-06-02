@@ -4,5 +4,5 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
     
    } 
    else{
-    location.replace("http://trashpixl.github.io");
+    //location.replace("http://trashpixl.github.io");
    }
