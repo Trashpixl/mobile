@@ -3,7 +3,6 @@ body {
     color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
     font-size: 1em;
-
 }
 h1{
   position: fixed;
@@ -29,7 +28,9 @@ h2{
   transform: translate(-50%, -50%);
   left: 50%;
   top: 40%;
-
+  color: white;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  font-size: 1em;
 }
 .button2{
   border: none;
@@ -43,6 +44,9 @@ h2{
   transform: translate(-50%, -50%);
   left: 50%;
   top: 50%;
+  color: white;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  font-size: 1em;
 }
 .button3{
   border: none;
@@ -56,4 +60,7 @@ h2{
   transform: translate(-50%, -50%);
   left: 50%;
   top: 60%;
+  color: white;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  font-size: 1em;
 }
