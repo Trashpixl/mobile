@@ -1,2 +1,2 @@
 # mobile
-This is a static place holder for the mobile version of the website. We will not accept pull request for this repo. To contribute go see  Trashpixl.github.io
+This is the mobile version of the website. Please visit the trashpixl.github.io repo to get started.
