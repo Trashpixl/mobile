@@ -5,6 +5,7 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
 else{
     //location.replace("http://trashpixl.github.io");
 }
-function button1(){
-
-}
+function copyServIp() {
+    navigator.clipboard.writeText("--PutActualIpHere--");
+    alert("Ip Copied!");
+  }
